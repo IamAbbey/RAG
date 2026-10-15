@@ -8,7 +8,11 @@ dependencies = [
     "bm25>=0.3.13",
     "datasets>=5.1.0",
     "langchain-text-splitters>=1.1.3",
+    "pillow>=12.3.0",
     "sentence-transformers>=6.1.0",
+    "soundfile>=0.14.0",
     "tiktoken>=0.14.0",
+    "torchcodec>=0.17.0",
+    "torchvision>=0.29.1",
     "transformers>=5.19.0",
 ]
